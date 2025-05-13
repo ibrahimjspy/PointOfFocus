@@ -1,5 +1,5 @@
 
-# Flask Saliency Focus
+# PointOfFocus
 
 A lightweight Flask service that computes the most salient (attention-grabbing) point in an image using OpenCV’s Spectral Residual Saliency, and returns JSON:
 
